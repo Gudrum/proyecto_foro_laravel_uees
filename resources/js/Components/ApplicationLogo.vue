@@ -1,4 +1,4 @@
 <template>
-    <img src="public/assets/logo.svg"/>
+    <img src="/assets/logo.png"/>
 </template>
 
